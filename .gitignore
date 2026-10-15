@@ -1,0 +1,5 @@
+# Build output
+/wildbugs
+*.exe
+.DS_Store
+.env
